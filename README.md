@@ -3,7 +3,7 @@
 A modern, minimalist banking website built with HTML, CSS, and JavaScript.  
 This project showcases smooth scrolling, lazy-loaded images, tabbed components, a feedback slider, sticky navigation, and modal windows.
 
-**Live Website:** [View AdvanceBankist](https://YOUR_WEBSITE_LINK_HERE)
+**Live Website:** [View AdvanceBankist](https://kamalhara.github.io/Bankist-app/)
 
 ---
 
